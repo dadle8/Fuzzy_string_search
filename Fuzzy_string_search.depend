@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1455902734 source:c:\users\Слава\yandexdisk\Университет\2 курс\2 семестр\Практика\fuzzy_string_search\fuzzy_string_search.cpp
+	<vector>
+	<algorithm>
+	<string>
+	"fuzzy_string_search.h"
+
+1455902765 c:\users\Слава\yandexdisk\Университет\2 курс\2 семестр\Практика\fuzzy_string_search\fuzzy_string_search.h
+	<iostream>
+
+1455903773 source:c:\users\Слава\yandexdisk\Университет\2 курс\2 семестр\Практика\fuzzy_string_search\main.cpp
+	"fuzzy_string_search.h"
+	<string>
+	<ctime>
+	<fstream>
+	<vector>
+
